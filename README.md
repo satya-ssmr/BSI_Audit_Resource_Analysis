@@ -1,4 +1,4 @@
-# BSI Audit Resource Allocation
+# BSI Audit Resource Allocation analysis
 
 If you cannot view the interactive dashboard, Feel free to download the .pbix file.
 You need to have power BI Desktop to view the dashboard. My organisation doesn't 
@@ -27,7 +27,7 @@ Tracks utilization of auditors as a percentage of their available time. Low util
 
 Enables planning team to optimize auditor assignments and balance workloads. Helps improve productivity.
 
-**<span style="color:orange">Dashboard 4: Remote Booking</span>**
+**<span style="color:red">Dashboard 4: Remote Booking</span>**
 Percentage of audits conducted fully-remote versus on client site. Indicates adoption of remote/hybrid audit capabilities.
 
 Supports determining needs for technologies, travel, and other policies to enable effective remote auditing.
