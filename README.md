@@ -27,8 +27,8 @@ Tracks utilization of auditors as a percentage of their available time. Low util
 
 Enables planning team to optimize auditor assignments and balance workloads. Helps improve productivity.
 
-**<span style="color:orange">Dashboard 4: Remote Booking</span>
-**Percentage of audits conducted fully-remote versus on client site. Indicates adoption of remote/hybrid audit capabilities.
+**<span style="color:orange">Dashboard 4: Remote Booking</span>**
+Percentage of audits conducted fully-remote versus on client site. Indicates adoption of remote/hybrid audit capabilities.
 
 Supports determining needs for technologies, travel, and other policies to enable effective remote auditing.
 
